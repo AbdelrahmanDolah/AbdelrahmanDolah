@@ -75,3 +75,13 @@ Building modern technology solutions that combine:
 ---
 
 > “Technology becomes powerful when it creates real operational and business impact.”
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=AbdelrahmanDolah&show_icons=true&theme=transparent)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=AbdelrahmanDolah&theme=transparent)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanDolah&layout=compact&theme=transparent)
