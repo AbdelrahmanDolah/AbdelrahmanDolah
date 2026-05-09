@@ -1,4 +1,8 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,100:1E293B&text=Abdelrahman%20Dola&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Tech%20Driven%20Product%20%26%20Backend%20Engineer&descAlignY=55"/>
+
 # Abdelrahman Dola 👋
+
+![](https://komarev.com/ghpvc/?username=AbdelrahmanDolah&color=blue)
 
 ### Tech-Driven Product & Backend Engineer
 
@@ -17,7 +21,9 @@ Building scalable digital products through software engineering, startup operati
 ---
 
 ## 🛠 Tech Stack
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,php,laravel,javascript,mysql,git,github,vscode" />
+</p>
 ### Backend & Development
 - Python
 - PHP Laravel
